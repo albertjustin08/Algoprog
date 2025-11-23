@@ -33,14 +33,12 @@ a.out
 *.jar
 *.war
 *.ear
-*.log
 .mtj.tmp/
 
 # Python
 __pycache__/
 *.py[cod]
 *$py.class
-*.so
 .Python
 env/
 venv/
