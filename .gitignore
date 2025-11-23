@@ -1,6 +1,6 @@
-# Compiled files
+# Compiled executable files
 *.exe
-*.out
+a.out
 *.o
 *.class
 *.pyc
@@ -14,7 +14,7 @@ __pycache__/
 *~
 .DS_Store
 
-# Input/Output test files (optional - uncomment if you want to ignore)
+# Test input/output files (uncomment if you want to ignore test files)
 # *.in
 # *.out
 
