@@ -1,0 +1,70 @@
+# Compiled Object files
+*.o
+*.obj
+*.elf
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+a.out
+
+# C/C++ specific
+*.i
+*.ii
+*.s
+*.su
+*.slo
+*.lo
+*.gch
+*.pch
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.log
+.mtj.tmp/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg
+*.egg-info/
+dist/
+build/
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Debug files
+*.dSYM/
+*.pdb
+*.ilk
+
+# Temp files
+*.tmp
+*.bak
+*.log
+temp/
+tmp/
