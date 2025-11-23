@@ -1,0 +1,51 @@
+# Compiled files
+*.exe
+*.out
+*.o
+*.class
+*.pyc
+__pycache__/
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Input/Output test files (optional - uncomment if you want to ignore)
+# *.in
+# *.out
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Build directories
+build/
+dist/
+bin/
+obj/
+
+# Language-specific
+# Java
+*.jar
+*.war
+
+# C/C++
+*.a
+*.so
+*.dll
+
+# Python
+*.egg-info/
+.pytest_cache/
+venv/
+env/
+
+# JavaScript/Node
+node_modules/
+package-lock.json
